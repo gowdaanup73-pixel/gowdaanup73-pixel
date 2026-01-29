@@ -1,16 +1,60 @@
-## Hi there 👋
+<!-- 3D Gradient Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=220&text=Anup%20Gowda&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=40" />
+</p>
 
-<!--
-**gowdaanup73-pixel/gowdaanup73-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Machine Learning Engineer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;AI+and+Data+Science;Building+Intelligent+Systems&font=Fira+Code&center=true&width=700&height=80&color=9FEF00&vCenter=true&size=28">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+- 🎓 Engineering Student (Class of 2027)
+- 🤖 Focused on **Machine Learning & AI**
+- 📊 Strong in **Data Analysis & Model Building**
+- 🔬 Interested in **real-world ML problems**
+
+---
+
+## 🛠️ ML Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-0A192F?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Pandas-0A192F?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-0A192F?style=for-the-badge&logo=scikit-learn" />
+</p>
+
+---
+
+## 🧪 ML Projects
+🔹 **Predictive Maintenance (ML)**  
+- Supervised learning  
+- Feature engineering  
+- Failure prediction  
+
+🔹 **Data Analysis Projects**  
+- Data cleaning & EDA  
+- Statistical insights  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gowdaanup73-pixel&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowdaanup73-pixel&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Focused on learning. Built on fundamentals. Growing with consistency.</i>
+</p>
