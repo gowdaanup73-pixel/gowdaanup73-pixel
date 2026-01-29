@@ -1,12 +1,12 @@
-<!-- 3D Gradient Header -->
+<!-- 3D Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=220&text=Anup%20Gowda&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=220&text=Anup%20Gowda%20K%20T&fontSize=58&fontColor=58A6FF&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <h3 align="center">Machine Learning Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;AI+and+Data+Science;Building+Intelligent+Systems&font=Fira+Code&center=true&width=700&height=80&color=9FEF00&vCenter=true&size=28">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;AI+and+Data+Science;Learning+by+Building&font=Fira+Code&center=true&width=700&height=80&color=9FEF00&vCenter=true&size=28">
 </p>
 
 ---
@@ -14,8 +14,8 @@
 ## 🧠 About Me
 - 🎓 Engineering Student (Class of 2027)
 - 🤖 Focused on **Machine Learning & AI**
-- 📊 Strong in **Data Analysis & Model Building**
-- 🔬 Interested in **real-world ML problems**
+- 📊 Strong in **Data Analysis & Feature Engineering**
+- 🔬 Interested in solving **real-world ML problems**
 
 ---
 
@@ -41,6 +41,21 @@
 🔹 **Data Analysis Projects**  
 - Data cleaning & EDA  
 - Statistical insights  
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://myportfolio-beta-gray.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://www.linkedin.com/in/anup-gowda-k-t-b314432b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/anup___7/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
 
 ---
 
