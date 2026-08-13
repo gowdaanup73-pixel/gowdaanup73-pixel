@@ -124,8 +124,6 @@ metric    : Clean pipelines, statistical storytelling
 <img src="https://github-profile-trophy.vercel.app/?username=gowdaanup73-pixel&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=3" width="49%"/>
 </div>
 
-> ⚠️ If the cards above show *"Failed to retrieve contributions"* — double check that `gowdaanup73-pixel` is your exact GitHub username and that your profile isn't private. Everything regenerates instantly once that's confirmed.
-
 <br>
 
 ## 🐍 CONTRIBUTION.SNAKE — Animated Activity
@@ -133,8 +131,6 @@ metric    : Clean pipelines, statistical storytelling
 <div align="center">
 <img src="https://raw.githubusercontent.com/gowdaanup73-pixel/gowdaanup73-pixel/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-
-<sub>👆 This animated snake eats through your real contribution graph — it needs a **one-time GitHub Action setup** (instructions below).</sub>
 
 <br>
 
