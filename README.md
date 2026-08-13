@@ -79,8 +79,7 @@ exploring:  Model interpretability, real-time inference
 
 <br>
 
-## 🚀 DEPLOYED.PROJECTS — Selected Builds
-
+## 🚀 DEPLOYED.PROJECTS
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -126,7 +125,7 @@ metric    : Clean pipelines, statistical storytelling
 
 <br>
 
-## 🐍 CONTRIBUTION.SNAKE — Animated Activity
+## CONTRIBUTIONS
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/gowdaanup73-pixel/gowdaanup73-pixel/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -134,7 +133,7 @@ metric    : Clean pipelines, statistical storytelling
 
 <br>
 
-## 📶 UPLINK — Connect
+## Connect
 
 <div align="center">
 
